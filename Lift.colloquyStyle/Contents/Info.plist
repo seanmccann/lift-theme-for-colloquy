@@ -5,13 +5,13 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>English</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Campfire Colloquy style</string>
+	<string>LiFT Colloquy style</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.blaimhq.colloquy.style.campfire</string>
+	<string>com.liftinteractive.colloquy.style.lift</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>Campfire</string>
+	<string>LiFT</string>
 	<key>CFBundlePackageType</key>
 	<string>coSt</string>
 	<key>JVStyleOptions</key>
@@ -118,6 +118,6 @@
 		</dict>
 	</array>
 	<key>NSHumanReadableCopyright</key>
-	<string>Claudio Perez Gamayo</string>
+	<string>Lift Interactive Inc.</string>
 </dict>
 </plist>
