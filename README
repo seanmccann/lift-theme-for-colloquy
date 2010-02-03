@@ -1,15 +1,13 @@
 INSTALLATION
 
-1. copy the file "Campfire.colloquyStyle" to "~/Library/Application Support/Colloquy/Styles"
+1. copy the file "Lift.colloquyStyle" to "~/Library/Application Support/Colloquy/Styles"
 2. write "/reload style" in a colloquy window or restart Colloquy.
 3. enjoy
 
-( If you want a similar theme for Adium, try http://github.com/watsonian/campfire-adium-message-style )
+LIFT THEME CONTRIBUTORS
 
-CONTRIBUTORS
+* Sean McCann (sean@seanmccann.ca)
+
+CAMPFIRE THEME CONTRIBUTORS
 
 * Joel Watson ( http://github.com/watsonian )
-
---
-Claudio Perez Gamayo
-http://80kv.com
